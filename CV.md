@@ -4,17 +4,17 @@
 # This template can be used to create a simple but good-looking CV based on very
 # generic information. Please have a look into the README.md of this repository
 # for a full explanation!
-name: Hendrik Erz
-occupation: PhD Candidate
+name: Xiaofeng ZHAO
+occupation: University Teacher
 address:
-  - "Institute for Analytical Sociology (IAS)"
-  - "Linköping University"
+  - "College of Economics and Management (CEM)"
+  - "Northwestern A&&F University"
   - ""
-  - "Kopparhammaren 7"
-  - "Kungsgatan 56, Entrance 56D"
-  - "601 74 Norrköping, Sweden"
+  - "Taicheng Road 3"
+  - "Yangling, Xianyang"
+  - "Shaanxi, P.R.China, 712100"
 contact:
-  - "**Email**: [hendrik.erz@liu.se](mailto:hendrik.erz@liu.se)"
+  - "**Email**: [xfzhao@nwafu.edu.cn](mailto:xfzhao@nwafu.edu.cn)"
   - "**Website**: [hendrik-erz.de](https://www.hendrik-erz.de/)"
   - "**ORCID**: [0000-0003-0775-5919](https://orcid.org/0000-0003-0775-5919)"
   - "\\ "
